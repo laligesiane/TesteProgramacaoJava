@@ -11,7 +11,7 @@ Projeto em Java puro, sem build tool.
 
 Java puro, compilado e executado diretamente com o JDK:
 
-```
+```bash
 javac *.java
 java Principal
 ```
